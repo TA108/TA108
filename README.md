@@ -6,7 +6,7 @@
 
 💼 I have experience in **Python, Django, Computer Vision, OCR, and Data Engineering**.
 
-🌍 I'm based in **Odisha, India**.
+🌍 I'm right now in **Odisha, India**.
 
 📫 How to reach me: [aryatanmay108@gmail.com](mailto:aryatanmay108@gmail.com)
 
